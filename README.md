@@ -4,7 +4,7 @@
 
 Submitted by: **Phillip Ren**
 
-Time spent: **3/4** hours spent in total
+Time spent: **.75** hours spent in total
 
 ## User Stories
 
