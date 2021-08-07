@@ -1,6 +1,6 @@
 # Pre-work - *BillCalculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Bill Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Phillip Ren**
 
