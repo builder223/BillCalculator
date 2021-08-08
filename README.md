@@ -2,7 +2,7 @@
 
 **Bill Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Phillip Ren**
+Submitted by: **Phillip R**
 
 Time spent: **.75** hours spent in total
 
